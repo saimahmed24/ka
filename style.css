@@ -34,16 +34,16 @@ nav div {
 
 .news {
     background-image: url('assets/banner.jpg');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 .about {
     background-image: url('assets/20101027173352892427_20.jpeg');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 .gallery {
     background-image: url('assets/images.jfif');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
