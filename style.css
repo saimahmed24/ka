@@ -24,6 +24,7 @@ nav {
 section {
     width: 80vw;
     margin-bottom: 20px;
+    height: 100vh;
 }
 
 nav div {
