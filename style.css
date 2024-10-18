@@ -23,6 +23,10 @@ nav {
 
 section {
     width: 80vw;
+<<<<<<< HEAD
+=======
+    height: 400px;
+>>>>>>> 3924de4 (initial commit)
     margin-bottom: 20px;
     height: 50vh;
 }
@@ -34,16 +38,31 @@ nav div {
 
 .news {
     background-image: url('assets/banner.jpg');
+<<<<<<< HEAD
     background-size: contain;
+=======
+    background-size:  cover;
+>>>>>>> 3924de4 (initial commit)
     background-repeat: no-repeat;
+    background-position: center;
 }
 .about {
     background-image: url('assets/20101027173352892427_20.jpeg');
+<<<<<<< HEAD
     background-size: contain;
+=======
+    background-size:  cover;
+>>>>>>> 3924de4 (initial commit)
     background-repeat: no-repeat;
+    background-position: center;
 }
 .gallery {
     background-image: url('assets/images.jfif');
     background-size: contain;
     background-repeat: no-repeat;
+<<<<<<< HEAD
 }
+=======
+    background-position: center;
+}
+>>>>>>> 3924de4 (initial commit)
